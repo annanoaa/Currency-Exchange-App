@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f6bebeb-4eb8-45fa-b28d-ae85bd72e601" name="Changes" comment="primary">
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    <list default="true" id="1f6bebeb-4eb8-45fa-b28d-ae85bd72e601" name="Changes" comment="final">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +22,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/annanoaa/TBC-Academy",
+    "accountId": "3c32de9e-8a83-4c97-8187-c6bfacc26a13"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -120,7 +125,7 @@
       <workItem from="1725387339610" duration="54000" />
       <workItem from="1725387400875" duration="310000" />
       <workItem from="1725387802928" duration="5292000" />
-      <workItem from="1725394148853" duration="16309000" />
+      <workItem from="1725394148853" duration="17103000" />
     </task>
     <task id="LOCAL-00001" summary="primary">
       <option name="closed" value="true" />
@@ -130,7 +135,39 @@
       <option name="project" value="LOCAL" />
       <updated>1725447454577</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="primary">
+      <option name="closed" value="true" />
+      <created>1725454624868</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725454624868</updated>
+    </task>
+    <task id="LOCAL-00003" summary="final">
+      <option name="closed" value="true" />
+      <created>1725454668909</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725454668909</updated>
+    </task>
+    <task id="LOCAL-00004" summary="final">
+      <option name="closed" value="true" />
+      <created>1725454733047</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725454733047</updated>
+    </task>
+    <task id="LOCAL-00005" summary="final">
+      <option name="closed" value="true" />
+      <created>1725455212517</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725455212518</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,10 +175,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primary" />
-    <option name="LAST_COMMIT_MESSAGE" value="primary" />
+    <MESSAGE value="final" />
+    <option name="LAST_COMMIT_MESSAGE" value="final" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/CurrencyExchangeApp$main.coverage" NAME="main Coverage Results" MODIFIED="1725446657525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/CurrencyExchangeApp$test.coverage" NAME="test Coverage Results" MODIFIED="1725454237533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CurrencyExchangeApp$main.coverage" NAME="main Coverage Results" MODIFIED="1725454563866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CurrencyExchangeApp$test.coverage" NAME="test Coverage Results" MODIFIED="1725454530545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
