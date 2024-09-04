@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f6bebeb-4eb8-45fa-b28d-ae85bd72e601" name="Changes" comment="primary" />
+    <list default="true" id="1f6bebeb-4eb8-45fa-b28d-ae85bd72e601" name="Changes" comment="primary">
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +37,7 @@
     "Python.main.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/arnan/PycharmProjects/CurrencyExchangeApp",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -117,7 +120,7 @@
       <workItem from="1725387339610" duration="54000" />
       <workItem from="1725387400875" duration="310000" />
       <workItem from="1725387802928" duration="5292000" />
-      <workItem from="1725394148853" duration="12538000" />
+      <workItem from="1725394148853" duration="16309000" />
     </task>
     <task id="LOCAL-00001" summary="primary">
       <option name="closed" value="true" />
@@ -139,6 +142,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CurrencyExchangeApp$main.coverage" NAME="main Coverage Results" MODIFIED="1725446657525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/CurrencyExchangeApp$test.coverage" NAME="test Coverage Results" MODIFIED="1725445960056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CurrencyExchangeApp$test.coverage" NAME="test Coverage Results" MODIFIED="1725454237533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
